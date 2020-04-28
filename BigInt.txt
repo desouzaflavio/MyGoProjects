@@ -1,0 +1,14 @@
+package big
+
+import(
+    "fmt"
+    "io"
+    "math/rand"
+    "String"
+)
+
+func main(){
+
+    var x int;
+    fmt.println(x);
+}
